@@ -1,0 +1,16 @@
+GIT
+
+git config
+git init 
+git clone
+ls
+git status
+git add
+git commit
+git log
+git checkout
+git branch
+git merge
+git diff
+git stash
+git push
