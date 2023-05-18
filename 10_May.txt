@@ -14,3 +14,16 @@ git merge
 git diff
 git stash
 git push
+git mv
+git restore
+git rm
+git bisect
+git grep
+git show
+git rebase
+git reset
+git switch
+git tag
+git fetch
+git pull
+git revert
