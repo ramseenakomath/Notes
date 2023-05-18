@@ -1,0 +1,25 @@
+HTML
+
+document declaration
+<html> tag
+<head>&<title>
+<body>
+heading tags(<h1>to<h6>)
+<p> 
+<br>&<hr>
+text formatting tags(<u><i><small><mark><del><em><strong>..)
+<table>,<thead>,<tr>,th>,<td>
+<link>
+<img>(image link,image map)
+<div>
+<class>(#)
+<id>(.)
+list(<ul><ol>)
+<iframe>
+<video>
+<audio>
+<button>tag
+<form><label><input type=""><select>
+metadata
+CSS
+JavaScript
