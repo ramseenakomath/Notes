@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.mainbody{
+    width: 200px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background-color: cadetblue;
+    padding: 50px;
+
+}
+.login{
+    text-align: center;
+    color: midnightblue;
+}
+.mainform{
+   margin-left: 25px;
+   line-height: 30px;
+}
+.btn{
+    margin-left: 45px;
+    background-color: green;
+    color: #fff;
+}
+
