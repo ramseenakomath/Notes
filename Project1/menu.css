@@ -60,3 +60,12 @@ image:hover{
 h3,p{
     padding-left: 10px;
 }
+.foot{
+    width: 100px;
+    background-color: crimson;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 40%;
+    margin-top: 10px;
+    padding: 20px;
+}
