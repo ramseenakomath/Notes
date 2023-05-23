@@ -1,6 +1,11 @@
 body{
     margin: 0;
     padding: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1G5nMDSg6MLYj55AFZPe5S08EaWc3s1ltjg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
 }
 
 .mainbody{
@@ -8,13 +13,13 @@ body{
     height: 300px;
     margin-top: 100px;
     margin-left: 400px;
-    background-color: cadetblue;
+    background-color:darkgrey;
     padding: 50px;
 
 }
 .login{
     text-align: center;
-    color: midnightblue;
+    color: red;
 }
 .mainform{
    margin-left: 25px;
